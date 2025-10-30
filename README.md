@@ -1,2 +1,4 @@
 ### Hola clase
-jsalveg491 --> Jorge Saldaña
+
+jpacord2711-coder
+jsalveg491
