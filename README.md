@@ -1,2 +1,6 @@
 ### Hola clase
-system.aut.printl("soy Luis Sánchez")
+
+jpacord2711-coder
+jsalveg491
+soy Luis Sánchez
+
