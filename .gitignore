@@ -265,3 +265,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,python
+
+# Scores del fastsim, se genera en la carpeta en el cual se ejecuta el programa
+alumnos/fastsim_scores.json
