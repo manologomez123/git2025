@@ -15,3 +15,5 @@ Cristian Muñoz Diaz
 rmonfri149
 ### Javier Pérez Pedrosa
 ### darijul413
+Daniel Ruiz Jimenez
+
