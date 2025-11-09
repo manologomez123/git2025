@@ -1,4 +1,3 @@
-
 ### Hola clase 
 
 jpacord2711-coder
@@ -13,3 +12,4 @@ mniecom1106-cell
 ### Alejandro Valero Aguilar
 Marcos Contreras Carrasquilla
 Cristian Muñoz Diaz
+rmonfri149
